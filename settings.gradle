@@ -1,0 +1,2 @@
+rootProject.name = "8July_BirdsGrid_View"
+include ':app'
